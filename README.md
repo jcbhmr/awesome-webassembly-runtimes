@@ -26,11 +26,17 @@
 - **[aWsm](https://github.com/gwsystems/aWsm):** CLI \
     WebAssembly ahead-of-time compiler and runtime. Focuses on generating fast code, simplicity, and portability.
 
+- **[Chicory](https://github.com/dylibso/chicory):** Java \
+    Native JVM WebAssembly runtime
+
 - **[Extism](https://extism.org/):** CLI, Rust, JavaScript, Elixr, Go, Haskell, Java, .NET, OCaml, PHP, Python, Ruby, Zig, C, C++ \
     The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 
 - **[GraalWasm](https://github.com/oracle/graal/tree/master/wasm):** Java \
     GraalWasm is a WebAssembly engine implemented in GraalVM. It can interpret and compile WebAssembly programs in the binary format, or be embedded into other programs.
+
+- **[Lunatic](https://github.com/lunatic-solutions/lunatic):** CLI, Rust, AssemblyScript \
+    Lunatic is an Erlang-inspired runtime for WebAssembly
 
 - **[Wasm3](https://github.com/wasm3/wasm3):** CLI, Python, Rust, C, C++, Go, Zig, Perl, Swift, .NET, Nim, Arduino, PlatformIO, Particle, QuickJS \
     🚀 A fast WebAssembly interpreter and the most universal WASM runtime
@@ -55,9 +61,6 @@
 
 - **[wazero](https://wazero.io/):** CLI, Go \
     wazero is the only zero dependency WebAssembly runtime written in Go.
-
-- **[Lunatic](https://github.com/lunatic-solutions/lunatic):** CLI, Rust, AssemblyScript \
-    Lunatic is an Erlang-inspired runtime for WebAssembly
 
 ---
 
