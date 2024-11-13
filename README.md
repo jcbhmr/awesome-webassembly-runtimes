@@ -12,7 +12,7 @@
   <a href="https://awesome.re/"><img valign=middle src="https://awesome.re/badge.svg"></a>
 </p>
 
-> A WebAssembly runtime is a software environment that executes programs compiled to the WebAssembly (Wasm) binary format, enabling efficient and portable execution of code. Notable runtimes include V8, SpiderMonkey, and Wasmtime.
+A WebAssembly runtime is a software environment that executes programs compiled to the WebAssembly (Wasm) binary format, enabling efficient and portable execution of code. Notable runtimes include V8, SpiderMonkey, and Wasmtime.
 
 - **[V8](https://v8.dev/):** Browser \
     V8 includes its own custom WebAssembly engine.
@@ -37,6 +37,9 @@
 
 - **[Lunatic](https://github.com/lunatic-solutions/lunatic):** CLI, Rust, AssemblyScript \
     Lunatic is an Erlang-inspired runtime for WebAssembly
+
+- **[The Wizard Research Engine](https://github.com/titzer/wizard-engine):** Virgil \
+    Research WebAssembly Engine
 
 - **[Wasm3](https://github.com/wasm3/wasm3):** CLI, Python, Rust, C, C++, Go, Zig, Perl, Swift, .NET, Nim, Arduino, PlatformIO, Particle, QuickJS \
     🚀 A fast WebAssembly interpreter and the most universal WASM runtime
